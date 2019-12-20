@@ -44,7 +44,7 @@
 
 const char *filename = "/etc/passwd";
 const char *backup_filename = "/tmp/passwd.bak";
-const char *salt = "firefart";
+const char *salt = "fenom";
 
 int f;
 void *map;
